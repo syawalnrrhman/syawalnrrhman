@@ -48,14 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=syawalnrrhman&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syawalnrrhman&theme=default" height="150" />
-</p>
-
----
-
 ## 📫 Contact
 - 📩 Email: **syawalnrrhman@gmail.com**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/syawal-nurrohman/
